@@ -35,6 +35,14 @@ This course is licensed for educational use and may include excerpted material u
 
 ---
 
+## 🌐 Live Course Website
+
+You can access the course at:
+
+👉 [Trust Creation-Study Course (GitHub Pages)](https://hpe-Eman2013.github.io/Trust-Creation-Study-Course/)
+
+---
+
 ## ✍️ Author
 
 **Yahman** — Course creator, trust law researcher, and project lead.
