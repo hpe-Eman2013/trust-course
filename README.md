@@ -39,7 +39,7 @@ This course is licensed for educational use and may include excerpted material u
 
 You can access the course at:
 
-👉 [Trust Creation-Study Course (GitHub Pages)](https://hpe-Eman2013.github.io/Trust-Creation-Study-Course/)
+👉 [Trust Creation-Study Course (GitHub Pages)](https://hpe-eman2013.github.io/trust-course/)
 
 ---
 
